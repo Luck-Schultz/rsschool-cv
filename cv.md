@@ -5,8 +5,6 @@
 ## Contacts:
 > Telegram: "@s_host"
 
-> Inst.: "_.a.moroz._"
-
 > e.mail: "aleksei.host@mail.ru";
 
 # Brief information about myself:
